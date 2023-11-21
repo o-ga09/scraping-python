@@ -1,4 +1,4 @@
-# Scrapinh a Web Site
+# Scraping a Web Site
 
 ## Run
 
